@@ -8,8 +8,7 @@ A Python module and CLI utility to compare binary packages between the `sisyphus
 
    ```bash
    git clone https://github.com/yourusername/rdb_compare.git
-   cd package-compare
-  ```
+   cd package-compare```
 2. **Install the Requirements**
 
    ```bash
